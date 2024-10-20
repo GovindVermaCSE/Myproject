@@ -8,8 +8,8 @@ int main()
     int num1, num2;
     num1 = 10;
     num2 = 20;
-    int result = num1 / num2;
-    cout << "Division = " << result << endl;
+    int Divi = num1 / num2;
+    cout << "Division = " << Divi << endl;
 
     cout << "Program terminate" << endl;;
 }
